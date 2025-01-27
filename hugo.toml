@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Tech musings'
+theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = "Under Contruction ⚒️"
+Content = ""
+
+[[params.socialIcons]]
+name = "Twitter"
+url = "https://x.com/prerak_011"
