@@ -4,9 +4,13 @@ title = 'Tech musings'
 theme = 'PaperMod'
 
 [params.homeInfoParams]
-Title = "Under Contruction ⚒️"
-Content = ""
+Title = "Hi , I'm Prerak 👋"
+Content = "I like to experiment with tools and technologies in web3 space. I write about my experiences with them here. Hope you have a wonderful time on this site`"
 
 [[params.socialIcons]]
 name = "Twitter"
 url = "https://x.com/prerak_011"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/prerak01"
